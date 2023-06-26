@@ -15,12 +15,12 @@
 minimal_mistakes_skin    :  "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise", "default"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "e-learn Jay Gil"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "배움의 기쁨을 나눠요"
 name                     : "Jay Gil (Wan Je Gil)"
-description              : # "Amazing...."
+description              : "Jay Gil의 블로그입니다."
 url                      : "https://jaygil8755.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "코딩교양스쿨"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "작은 발견과 소소한 깨달음의 기록"
   location         : "Somewhere"
-  email            :
+  email            : "jaygil8755@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:jaygil8755@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
